@@ -1,0 +1,13 @@
+# 本地软件和会话状态不属于共享方法材料
+.obsidian/
+.codex/
+.claudian/
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# 凭据不应放入本目录；忽略规则不能代替权限与内容检查
+.env
+.env.*
