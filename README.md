@@ -26,7 +26,7 @@
 
 ## 用自己的内容试试
 
-直接[下载 v1 压缩包](https://github.com/Corvette0854/Embedded-Ai-Workflow/releases/download/v1/Embedded-Ai-Workflow-v1.zip)，解压后打开[00-先看这里](00-先看这里.md)。已经拿到文件夹，就从这个中文入口开始。
+直接[下载 v1.1 压缩包](https://github.com/Corvette0854/Embedded-Ai-Workflow/releases/download/v1.1/Embedded-Ai-Workflow-v1.1.zip)，解压后打开[00-先看这里](00-先看这里.md)。已经拿到文件夹，就从这个中文入口开始。
 
 在 GitHub 上，也可以点绿色的 **Code** 按钮，再选 **Download ZIP**，取得当前文件。
 
